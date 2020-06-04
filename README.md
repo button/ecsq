@@ -21,14 +21,14 @@ few things on top of `aws-cli`. The major improvements, other than how informati
 `ecsq` is distributed via Go. Make sure you have Go installed, and run
 
 ```
-go get -u github.com/mightyguava/ecsq
+go get -u github.com/button/ecsq
 ```
 
 ## Upgrading
 
 `ecsq` does not yet follow semantic versioning. Upgrading uses the same command as installing
 ```
-go get -u github.com/mightyguava/ecsq
+go get -u github.com/button/ecsq
 ```
 
 ## Configuration and credentials
